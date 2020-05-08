@@ -8,7 +8,7 @@ Created a webapp which scrapes various astronomical websites and displays releva
 
 ## Resources
 - Data Sources: [astrogeology](https://astrogeology.usgs.gov/), [mars news](https://mars.nasa.gov/news/), [jpl](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars), [space facts](http://space-facts.com/mars/)
-- Software/Tools:Jupyter Lab
+- Software/Tools: Jupyter Lab
 - Languages: Python 3, HTML5, CSS
 - Packages: Bootstrap 4, Flask, splinter, pandas
 
